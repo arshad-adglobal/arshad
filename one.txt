@@ -1,0 +1,6 @@
+1- git init
+2- git status
+3- git add . if want to add one file("File Name")
+4- git commit -m "Message name"
+5- git push -u origin (Branch Name)
+6- 
