@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-28T20:35:32 IST" name="Suite" finished-at="2023-03-28T20:35:32 IST" duration-ms="121">
+    <groups>
+    </groups>
+    <test started-at="2023-03-28T20:35:32 IST" name="Test" finished-at="2023-03-28T20:35:32 IST" duration-ms="121">
+      <class name="UAT_Env.UAT2">
+        <test-method signature="U1()[pri:0, instance:UAT_Env.UAT2@223d2c72]" started-at="2023-03-28T20:35:32 IST" name="U1" finished-at="2023-03-28T20:35:32 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- U1 -->
+        <test-method signature="U2()[pri:0, instance:UAT_Env.UAT2@223d2c72]" started-at="2023-03-28T20:35:32 IST" name="U2" finished-at="2023-03-28T20:35:32 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- U2 -->
+        <test-method signature="U3()[pri:0, instance:UAT_Env.UAT2@223d2c72]" started-at="2023-03-28T20:35:32 IST" name="U3" finished-at="2023-03-28T20:35:32 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- U3 -->
+      </class> <!-- UAT_Env.UAT2 -->
+      <class name="UAT_Env.UAT_Environment">
+        <test-method signature="U1()[pri:0, instance:UAT_Env.UAT_Environment@79e2c065]" started-at="2023-03-28T20:35:32 IST" name="U1" finished-at="2023-03-28T20:35:32 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- U1 -->
+        <test-method signature="U2()[pri:0, instance:UAT_Env.UAT_Environment@79e2c065]" started-at="2023-03-28T20:35:32 IST" name="U2" finished-at="2023-03-28T20:35:32 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- U2 -->
+        <test-method signature="U3()[pri:0, instance:UAT_Env.UAT_Environment@79e2c065]" started-at="2023-03-28T20:35:32 IST" name="U3" finished-at="2023-03-28T20:35:32 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- U3 -->
+      </class> <!-- UAT_Env.UAT_Environment -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
